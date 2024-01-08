@@ -1,2 +1,4 @@
-This is my responsive portfolio,using HTML ,CSS, JAVASCRIPT.
-Here i have given all the png images used in this portfolio and HTML,CSS,JS code of the portfolio.
+A responsive portfolio resume is a digital representation of your professional skills, experience, and achievements that adapts to different devices and screen sizes.
+It combines the traditional elements of a resume with the visual appeal of a portfolio, showcasing your work in a visually appealing manner.
+The term "responsive" indicates that the design of the portfolio resume is optimized for various devices, including desktops, laptops, tablets, and smartphones.
+
