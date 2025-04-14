@@ -1,0 +1,4 @@
+static_sites:
+  - name: your-site-name
+    build_command: "echo 'No build needed for static files'"  
+    publish_dir: "/"  # Root directory (where index.html lives)
